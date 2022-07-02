@@ -1,4 +1,4 @@
-FA-GL-BICA-MLP model
+FA-GL-BICA-MLP hybrid machine learning model
 
 A fuzzy adaptive binary global learning colonization-MLP model for body fat prediction
 
