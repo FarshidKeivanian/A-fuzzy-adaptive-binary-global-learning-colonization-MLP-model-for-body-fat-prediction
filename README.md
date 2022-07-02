@@ -1,6 +1,5 @@
-Fuzzy Adaptive Global Learning based binary ICA-MLP-model
+FA-GL-BICA-MLP model
 
-# FA-GL-BICA
 A fuzzy adaptive binary global learning colonization-MLP model for body fat prediction
 
 
