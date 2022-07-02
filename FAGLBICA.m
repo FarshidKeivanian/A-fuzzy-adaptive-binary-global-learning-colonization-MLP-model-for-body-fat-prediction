@@ -1,4 +1,4 @@
-% FABEICA
+%Hybrid FABEICA-Machine Learning framework
 clc;
 clear;
 close all;
